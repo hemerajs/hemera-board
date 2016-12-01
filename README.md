@@ -1,8 +1,8 @@
-## NATSboard
+## Hemera-board
 
 [![NPM][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
-Dashboard for monitoring NATS. It provides real-time information from NATS server. 
+Dashboard for monitoring Hemera & NATS. It provides real-time information from NATS server. 
 
 ![Overview](public/img/ss-natsboard-v3-1.png)
 
