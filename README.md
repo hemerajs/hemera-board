@@ -1,5 +1,7 @@
 ## Hemera-board
 
+- __Status:__ In development
+
 [![NPM][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
 Dashboard for monitoring Hemera & NATS. It provides real-time information from NATS server. 
